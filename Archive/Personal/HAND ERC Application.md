@@ -1,0 +1,9 @@
+https://hand-erc.org/ewd-reu/
+
+Building cool things is one of my greatest joys. The pride of taking an idea from your head into reality is an unmatched feeling.
+
+I love owning every aspect of a project, whether that be research and design, fabrication, or even the presentation of my work. As a hobbyist, I want to broaden my expertise through real world projects and explore different specializations from machine learning to UI/UX. Research provides the perfect hands-on environment to learn these interdisciplinary yet focused skills. In just the Human Interface Thrust alone, HAND is a chance for me to delve into the nuances of human-computer interaction, study wearable tech, and pursue low-level programming. But learning at HAND doesn't end at just technical proficiency. The professional development workshops and site visits prepare undergraduate students like me to enter industry and academia.
+
+The experimental nature of research is especially compelling to me: when deciding how to control first-of-their-kind robotic hands, there is no blueprint for what should and shouldn't be done. This intellectual freedom combined with the iterative, cyclical process of testing and refinement is what I enjoy most about making things.
+
+HAND initially caught my attention because I was genuinely impressed by the work. Robot end effectors as capable as a human hands in dexterity, sensing, and control felt like an idea straight out of science fiction. The cutting edge technology being developed at HAND is unique in how evidently it can revolutionize manufacturing, agriculture, and even our day to day lives. Research excites me because it lies at the forefront of innovation, but there are rarely initiatives like HAND with such significant impact across all fields. I'd be eager for any opportunity to learn and contribute to the innovative work being done at HAND.

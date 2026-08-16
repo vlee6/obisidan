@@ -1,0 +1,3 @@
+The Church-Turing Thesis states that if a computational problem $\Pi$ is solvable in any Turing-complete model of computation (ex a Word-RAM program, a Turing machine, or a Python program), then it is solvable in all of them.
+
+The Extended Church-Turing Thesis in Hesterberg-Vadhan: Every physically realizable model of computation can be simulated by a Word-RAM program with only a polynomial slowdown in runtime. Conversely, Word-RAM programs can be simulated in a deterministic and sequential manner (neither quantum or parallel) manner only polynomially slower than its defined runtime.

@@ -1,0 +1,10 @@
+{
+  "monospaceFontFamily": "JetBrainsMono Nerd Font Mono",
+  "cssTheme": "Baseline",
+  "interfaceFontFamily": "JetBrainsMono Nerd Font",
+  "textFontFamily": "JetBrainsMono Nerd Font",
+  "enabledCssSnippets": [
+    "bold",
+    "stylix"
+  ]
+}

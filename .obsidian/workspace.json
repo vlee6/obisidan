@@ -1,0 +1,355 @@
+{
+  "main": {
+    "id": "33e90e9e2307e2ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "76df08bd7f8a13b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1cc46649984a9618",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Archive/Excalidraw/Drawing 2026-06-30 09.20.41.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-06-30 09.20.41.excalidraw"
+            }
+          },
+          {
+            "id": "c0a119d99afc1ccc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arithmos/Covariate Forecasting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Covariate Forecasting"
+            }
+          },
+          {
+            "id": "5af945fbe14e800b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arithmos/Hosting a SSH server with WSL and NixOS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hosting a SSH server with WSL and NixOS"
+            }
+          },
+          {
+            "id": "2dd0cd39aaa326e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arithmos/A way to include manufacturing data.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A way to include manufacturing data"
+            }
+          },
+          {
+            "id": "d0329161d01b5f40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arithmos/QuantizedAutoEncoder vs Binning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "QuantizedAutoEncoder vs Binning"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0b42aa2c79fc65da",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9f512470c1b6023",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c722ae8f73492ef8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "326d6d0cc1b99a14",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3f907a268c91c53",
+        "type": "tabs",
+        "dimension": 63.39712918660287,
+        "children": [
+          {
+            "id": "b01aa85f9a15f18b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "51da249c7c76d0bf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f22e2be0b5f0b30f",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "CS1200/Graphs.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Graphs"
+            }
+          },
+          {
+            "id": "81a4b9298725f261",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "002454b09fd39783",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CS1200/Graphs.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Graphs"
+            }
+          },
+          {
+            "id": "206855c38b049b39",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CS1200/Graphs.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Graphs"
+            }
+          },
+          {
+            "id": "270f7df495319ac2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "d83390b52f3ad578",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CS1200/Graphs.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Graphs"
+            }
+          }
+        ]
+      },
+      {
+        "id": "451fa665e391596a",
+        "type": "tabs",
+        "dimension": 36.602870813397125,
+        "children": [
+          {
+            "id": "65e3eee5c05bbc14",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Arithmos/QuantizedAutoEncoder vs Binning.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": -3,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.3242414031068081,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Local graph"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 461.6708984375
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "d0329161d01b5f40",
+  "lastOpenFiles": [
+    "Arithmos/Assets/Pasted image 20260815033601.png",
+    "Arithmos/Assets/Pasted image 20260620132918.png",
+    "Arithmos/Covariate Forecasting.md",
+    "Arithmos/Untitled",
+    "Arithmos/QuantizedAutoEncoder vs Binning.md",
+    "Archive/Excalidraw/Drawing 2026-06-30 09.20.41.excalidraw.md",
+    "Arithmos/Hosting a SSH server with WSL and NixOS.md",
+    "Arithmos/Simple Binning (Chronos).md",
+    "Arithmos/Assets/Pasted image 20260804100121.png",
+    "Arithmos/Assets/Pasted image 20260804095723.png",
+    "Arithmos/Assets/Pasted image 20260804095715.png",
+    "Arithmos/Weekly Update.md",
+    "Archive/Excalidraw/Drawing 2026-07-14 08.32.36.excalidraw.md",
+    "Arithmos/Assets/Pasted Image 20260719214427_719.png",
+    "Arithmos/Designing a good autoencoder.md",
+    "Arithmos/Vector Quantization (TOTEM).md",
+    "Archive/Excalidraw/Drawing 2026-05-25 16.52.30.excalidraw 1.md",
+    "Arithmos/Assets/Pasted image 20260713122048.png",
+    "Arithmos/Assets/Pasted image 20260713110728.png",
+    "Arithmos/Assets/Pasted image 20260712133309.png",
+    "Arithmos/Assets/Pasted image 20260712132940.png",
+    "Arithmos/A way to include manufacturing data.md",
+    "Arithmos/Wave Quantization (WQ4TS).md",
+    "Arithmos/1 Project Notes.md",
+    "Arithmos/Encoder-Decoder or Decoder-Only?.md",
+    "Arithmos/Assets/Pasted Image 20260708111354_910.png",
+    "Arithmos/Tokenization & Embedding.md",
+    "Arithmos/Self-Attention or Cross-Attention?.md",
+    "Arithmos/Assets",
+    "Arithmos/Transformer Architecture.md",
+    "Archive/Excalidraw/Drawing 2026-05-25 16.52.30.excalidraw 2.md",
+    "Archive/Excalidraw/Drawing 2026-05-25 16.52.30.excalidraw.md",
+    "Archive/Excalidraw/Drawing 2026-05-25 16.52.30.excalidraw 1 1.md",
+    "Archive/Excalidraw/Drawing 2026-05-25 17.32.27.excalidraw.md",
+    "Archive/Excalidraw/Drawing 2026-05-25 17.15.25.excalidraw.md",
+    "Archive/Excalidraw",
+    "Archive",
+    "Archive/Templates",
+    "Archive/Work",
+    "Archive/School/Freshman Spring",
+    "Untitled.canvas",
+    "Archive/Personal/Interview Questions.md",
+    "Archive/School",
+    "Archive/School/Freshman Spring/CS1200/Greedy Algorithms.md",
+    "Arithmos",
+    "Archive/School/Freshman Spring/CS1200/Graphs.md",
+    "Untitled.base"
+  ]
+}
