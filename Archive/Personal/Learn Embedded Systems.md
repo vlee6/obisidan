@@ -108,7 +108,3 @@ Which activities have you most enjoyed? Have you held any leadership positions? 
 So far, the only extracurricular I've been involved with is CAing for PS70: Introduction to Digital Fabrication. I think the greatest joy in the world is making cool stuff, so its fun to support other students in their own projects. Working in the digital fabrication studio is also awesome since I get an excuse to be there all the time,
 
 Other than that, I'd like to join some engineering clubs that build something interesting, like Formula SAE, CubeSat, or combat robotics to meet more likeminded makers.
-
-chronor
-
-use personal email for github for jin lab

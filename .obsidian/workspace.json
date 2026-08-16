@@ -4,79 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "76df08bd7f8a13b5",
+        "id": "f24a2fc2b98c676c",
         "type": "tabs",
         "children": [
           {
-            "id": "1cc46649984a9618",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Archive/Excalidraw/Drawing 2026-06-30 09.20.41.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-06-30 09.20.41.excalidraw"
-            }
-          },
-          {
-            "id": "c0a119d99afc1ccc",
+            "id": "840f57ec8fefaf60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arithmos/Covariate Forecasting.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Covariate Forecasting"
-            }
-          },
-          {
-            "id": "5af945fbe14e800b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arithmos/Hosting a SSH server with WSL and NixOS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hosting a SSH server with WSL and NixOS"
-            }
-          },
-          {
-            "id": "2dd0cd39aaa326e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arithmos/A way to include manufacturing data.md",
+                "file": "Work/Arithmos/Tokenization/A way to include manufacturing data.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "A way to include manufacturing data"
             }
-          },
-          {
-            "id": "d0329161d01b5f40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arithmos/QuantizedAutoEncoder vs Binning.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "QuantizedAutoEncoder vs Binning"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -252,7 +197,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Arithmos/QuantizedAutoEncoder vs Binning.md",
+                "file": "Work/Arithmos/Tokenization/A way to include manufacturing data.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -299,57 +244,57 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d0329161d01b5f40",
+  "active": "b01aa85f9a15f18b",
   "lastOpenFiles": [
-    "Arithmos/Assets/Pasted image 20260815033601.png",
-    "Arithmos/Assets/Pasted image 20260620132918.png",
-    "Arithmos/Covariate Forecasting.md",
-    "Arithmos/Untitled",
-    "Arithmos/QuantizedAutoEncoder vs Binning.md",
+    "Work/Arithmos/Covariate Forecasting.md",
+    "Work/Arithmos/Dev",
+    "Work/Arithmos/Forecasting",
+    "Work/Arithmos/Tokenization",
+    "Personal/FPGA.md",
+    "Work/Arithmos/Tokenization/A way to include manufacturing data.md",
     "Archive/Excalidraw/Drawing 2026-06-30 09.20.41.excalidraw.md",
-    "Arithmos/Hosting a SSH server with WSL and NixOS.md",
-    "Arithmos/Simple Binning (Chronos).md",
-    "Arithmos/Assets/Pasted image 20260804100121.png",
-    "Arithmos/Assets/Pasted image 20260804095723.png",
-    "Arithmos/Assets/Pasted image 20260804095715.png",
-    "Arithmos/Weekly Update.md",
+    "Archive/Personal/Learn Embedded Systems.md",
+    "School/Sophmore Fall",
+    "Archive/School/Freshman Fall",
+    "Archive/School/Freshman Spring/Untitled",
+    "Work",
+    "School",
+    "Personal",
+    "Archive/Personal/Interview Questions.md",
+    "Archive/Personal/HAND ERC Application.md",
+    "Archive/Personal/CHAD Application.md",
+    "Work/Arithmos/Tokenization/QuantizedAutoEncoder vs Binning.md",
+    "Work/Arithmos/Assets/Pasted image 20260815033601.png",
+    "Work/Arithmos/Assets/Pasted image 20260620132918.png",
+    "Arithmos/Untitled",
+    "Work/Arithmos/Dev/Hosting a SSH server with WSL and NixOS.md",
+    "Work/Arithmos/Tokenization/Simple Binning (Chronos).md",
+    "Work/Arithmos/Assets/Pasted image 20260804100121.png",
+    "Work/Arithmos/Assets/Pasted image 20260804095723.png",
+    "Work/Arithmos/Assets/Pasted image 20260804095715.png",
+    "Work/Arithmos/Dev/Weekly Update.md",
     "Archive/Excalidraw/Drawing 2026-07-14 08.32.36.excalidraw.md",
-    "Arithmos/Assets/Pasted Image 20260719214427_719.png",
-    "Arithmos/Designing a good autoencoder.md",
-    "Arithmos/Vector Quantization (TOTEM).md",
+    "Work/Arithmos/Assets/Pasted Image 20260719214427_719.png",
+    "Work/Arithmos/Tokenization/Designing a good autoencoder.md",
+    "Work/Arithmos/Tokenization/Vector Quantization (TOTEM).md",
     "Archive/Excalidraw/Drawing 2026-05-25 16.52.30.excalidraw 1.md",
-    "Arithmos/Assets/Pasted image 20260713122048.png",
-    "Arithmos/Assets/Pasted image 20260713110728.png",
-    "Arithmos/Assets/Pasted image 20260712133309.png",
-    "Arithmos/Assets/Pasted image 20260712132940.png",
-    "Arithmos/A way to include manufacturing data.md",
-    "Arithmos/Wave Quantization (WQ4TS).md",
-    "Arithmos/1 Project Notes.md",
-    "Arithmos/Encoder-Decoder or Decoder-Only?.md",
-    "Arithmos/Assets/Pasted Image 20260708111354_910.png",
-    "Arithmos/Tokenization & Embedding.md",
-    "Arithmos/Self-Attention or Cross-Attention?.md",
-    "Arithmos/Assets",
-    "Arithmos/Transformer Architecture.md",
+    "Work/Arithmos/Assets/Pasted image 20260713122048.png",
+    "Work/Arithmos/Assets/Pasted image 20260713110728.png",
+    "Work/Arithmos/Assets/Pasted image 20260712133309.png",
+    "Work/Arithmos/Assets/Pasted image 20260712132940.png",
+    "Work/Arithmos/Tokenization/Wave Quantization (WQ4TS).md",
+    "Work/Arithmos/Project Notes.md",
+    "Work/Arithmos/Forecasting/Encoder-Decoder or Decoder-Only?.md",
+    "Work/Arithmos/Tokenization/Tokenization & Embedding.md",
+    "Work/Arithmos/Forecasting/Self-Attention or Cross-Attention?.md",
+    "Work/Arithmos/Forecasting/Transformer Architecture.md",
     "Archive/Excalidraw/Drawing 2026-05-25 16.52.30.excalidraw 2.md",
     "Archive/Excalidraw/Drawing 2026-05-25 16.52.30.excalidraw.md",
     "Archive/Excalidraw/Drawing 2026-05-25 16.52.30.excalidraw 1 1.md",
-    "Archive/Excalidraw/Drawing 2026-05-25 17.32.27.excalidraw.md",
-    "Archive/Excalidraw/Drawing 2026-05-25 17.15.25.excalidraw.md",
-    "Archive/Excalidraw",
-    "Archive",
-    "Archive/Templates",
-    "Archive/Work",
-    "Archive/School/Freshman Spring",
-    "Untitled.canvas",
-    "Archive/Personal/Interview Questions.md",
-    "Archive/School",
-    "Archive/School/Freshman Spring/CS1200/Greedy Algorithms.md",
-    "Arithmos",
-    "Archive/School/Freshman Spring/CS1200/Graphs.md",
-    "Untitled.base"
+    "Untitled.canvas"
   ]
 }
