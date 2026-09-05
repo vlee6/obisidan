@@ -25,3 +25,30 @@ In semiconduction manufacturing, virual metrology seeks to predict the quality o
 ### Foundation Models
 The goal with Arithmos is to develop a model that can preform these anomaly detection tasks (among others) while taking in data from various steps in the semiconductor manufacturing process, agnostic of who made the machine used at each step. Thus, the model must be trained on a large and diverse data set (different steps of the process, different machines, different textual input) to be a generalist--a foundation model.
 
+
+Total ts points: 13485456
+Total points in dataset 13296640
+holy fucking shit i had the wrong ravel this whole time what did that effect though
+
+#### Original, all sensors
+missed a transpose
+26 epochs to diverge? (so 25 is enough)
+
+#### Just `SLURRY_FLOW_LINE_A`, with `BPE (1024)`
+50 epochs to diverge
+![[Pasted image 20260818031806.png]]![[Pasted image 20260818012251.png]]
+Is it possible that this sensor data isn't very cyclical?
+![[Pasted image 20260818012322.png]]Looking at one block size, it seems pretty difficult to predict what will happen last. BPE compression also means that one wrong token leads to completely wrong decoded predictions.
+![[Pasted image 20260818012912.png]]![[Pasted image 20260818013330.png]]![[Pasted image 20260818013350.png]]![[Pasted image 20260818013408.png]]
+No doubt, with a synthetic dataset that repeats predictably, this would be a lot easier.
+
+#### Just `SLURRY_FLOW_LINE_A`, without `BPE`
+Forecast horizon needs to increase a bunch and predictions tend to be more flat. Much slower training times too (which makes sense), but seems to settle after less epochs (around 40).
+![[Pasted image 20260818024744.png]]![[Pasted image 20260818021640.png]]![[Pasted image 20260818021836.png]]
+might be some overlap between train and eval dataset. try a pass based dataset next
+
+upon further inspection, some of the pressure sensors (retainer ring and ripple air bag) seem off
+
+Modify both datasets to take "PASS_ID"
+
+BPE is very susceptible to anomalies. If the evaluation dataset differs even slightly from the training dataset, the tokens generated after BPE are completely different which results in poor forecasts.

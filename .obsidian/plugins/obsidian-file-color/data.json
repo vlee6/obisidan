@@ -1,0 +1,60 @@
+{
+  "cascadeColors": false,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "CXsYbCVS4N_bv7sZkI-et",
+      "name": "Red",
+      "value": "#fb464c"
+    },
+    {
+      "id": "q_GWizs9LkBmk9azLjjlH",
+      "name": "Orange",
+      "value": "#e9973f"
+    },
+    {
+      "id": "rVp-EFqEcXZj9O1gdzo9y",
+      "name": "Yellow",
+      "value": "#e0de71"
+    },
+    {
+      "id": "dlpuP2E9XwL0nTtRabdkM",
+      "name": "Green",
+      "value": "#44cf6e"
+    },
+    {
+      "id": "IUWiAKFxj7Lt8z-MrKm3_",
+      "name": "Cyan",
+      "value": "#53dfdd"
+    },
+    {
+      "id": "CTyS5yoBIk6EMAkIZinuJ",
+      "name": "Blue",
+      "value": "#027aff"
+    },
+    {
+      "id": "EU85yXAiRfcx9huvVoBbf",
+      "name": "Purple",
+      "value": "#a882ff"
+    },
+    {
+      "id": "EB9seczFhhTy7P_iugxIG",
+      "name": "Pink",
+      "value": "#fa99cd"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Personal",
+      "color": "q_GWizs9LkBmk9azLjjlH"
+    },
+    {
+      "path": "School",
+      "color": "CXsYbCVS4N_bv7sZkI-et"
+    },
+    {
+      "path": "Work",
+      "color": "CTyS5yoBIk6EMAkIZinuJ"
+    }
+  ]
+}

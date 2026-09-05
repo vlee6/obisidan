@@ -12,7 +12,7 @@ Should be a Windows (11) computer.
 `wsl --shutdown` to close NixOS
 
 #### Configuring NixOS
-Keep in mind that this server will be run headlessly and relies on WSL. Any GUIs, window managers, and hardware configuration can 
+Keep in mind that this server will be run headlessly and relies on WSL. Any GUIs, window managers, and hardware configuration should be disabled in configuration files.
 
 #### `ssh-server.nix`:
 ```nix
@@ -117,4 +117,7 @@ Installs common C++/Nvidia dependencies with a shim layer to spoof FHS complianc
 ```
 Configures NixOS to be WSL ready.
 ### SSH Client
-Should be a NixOS computer
+Should be a NixOS computer. Need to generate public SSH key and put that into the server's config.
+
+### Tailscale
+Install tailscale on the server and client so that they can connect even if they're not on the same wifi network.
