@@ -52,3 +52,35 @@ upon further inspection, some of the pressure sensors (retainer ring and ripple 
 Modify both datasets to take "PASS_ID"
 
 BPE is very susceptible to anomalies. If the evaluation dataset differs even slightly from the training dataset, the tokens generated after BPE are completely different which results in poor forecasts.
+
+Binning and BPE is also extremely susceptible to noise. Using a completely artificial dataset, even the tiniest noise causes predictions to be completely off.
+Switching back the VQ based autoencoder:![[Pasted image 20260907205007.png]]
+
+```python
+tokenizer_config = TokenizerConfig(
+    num_epochs=30, # Overfit the tokenizer for now
+    batch_size=16,
+    lr=1e-4,
+    alpha=20,
+    beta=0.2,
+    input_size=1024,
+    dim=32,
+    num_codes=64,
+    rotation_trick=True,
+)
+
+forecasting_config = GPTConfig(
+    num_epochs=50,
+    batch_size=16,
+    block_size=128,
+    lr=3e-4,
+    emb_dim=128,
+    n_heads=2,
+    n_layers=1,
+    dropout=0.0,
+    vocab_size=tokenizer_config.num_codes + 48,
+)
+
+```
+
+tokenizer block size (in indices) should match the tokenizer input size (in points)

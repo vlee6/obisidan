@@ -2,16 +2,13 @@
 [Chronos 2](https://github.com/amazon-science/chronos-forecasting/blob/main/notebooks/chronos-2-quickstart.ipynb) is a general model able to do covariate and multivariate forecasting. New covariates for different subjects can be added and applied to predict different things. How do they do this?
 - Crosss attention between target variable (thing to be predicted), and covariates.
 
-Chronos 2 is meant for prediciton tasks that don't have the same level of granularity as semiconductor fab. 
+Chronos 2 is meant for prediciton tasks that don't have the same level of granularity and length as semiconductor fab. 
 
 In a traditional cnn, dimensions are: (batch size, num input channels / num sensors, input_length)
 
 In a transformer, dimensions are: (batch size, sequence length / num tokens, hidden dimension)
 
 **for multivariate/covariate:** to do self attention across each indvidual "sensor" in the time series, chronos consolidates the sensor dimension in the batch dimension. to do "cross attention", chronos restructures its data such that the length of the sequence gets combined in the batch dimension, and the sequence becomes chunks of different sensor (ie, chunks of sensor 1, 2, and 3 that occur at the same time point arranged horizontally)
-
-
-does chronos 2 output a single continuous number or does it output one of the discrete pattersn
 
 ![[Drawing 2026-06-30 09.20.41.excalidraw|700]]
 ### TOTEM Multivariate Organization
@@ -27,6 +24,6 @@ Also use RevIN for their normalization.
 
 Potential cons:
 - Reconstruction loss
-- Attention mechanism feels less rob
+- Attention mechanism feels less robust
 
 ![[Drawing 2026-07-14 08.32.36.excalidraw|700]]

@@ -20,3 +20,5 @@ CABLE LAYOUT:
 
 
 Man maybe this isnt worth it until prices go down.
+
+# CONCLUSION: Wait for the Minisforum BD395i MAX and build your own case
