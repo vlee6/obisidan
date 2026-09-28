@@ -1,6 +1,6 @@
 First, TOTEM generates a codebook containing distinct time series patterns represented by vectors from a large (and potentially diverse in the case of a generalist model) time series data set (ie. corpus) via "self-supervised pre-training". Each vector in the codebook has a corresponding ID.
 
-TOTEM is given time series data $T$ to analyze. TOTEM breaks $T$ into segments/tokens and converts each segment/token to a vector $v$ via a deterministic encoder (VQ-VAE?). For every $v$, TOTEM then assigns an ID to $v$ based on which vector in the codebook matches $v$ the most (presumably calculated by dot-product).
+TOTEM is given time series data $T$ to analyze. TOTEM breaks $T$ into segments/tokens and converts each segment/token to a vector $v$ via a deterministic encoder (VQ-VAE?). For every $v$, TOTEM then assigns an ID to $v$ based on which vector in the codebook matches $v$ the most (presumably calculated by dot-product or cosine simularity).
 
 Note that the codebook is developed independently from the model: the vectors created in **tokenization** to represent time series segments are NOT the same as the vectors created by the **downstream model** (ie. T5) to represent IDs. Additionally, the encoder that maps time series segments to vectors is deterministic. 
 

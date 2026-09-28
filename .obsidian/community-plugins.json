@@ -6,5 +6,8 @@
   "obsidian-relative-line-numbers",
   "obsidian-vimrc-support",
   "obsidian-git",
-  "obsidian-file-color"
+  "obsidian-file-color",
+  "dark-pdf-export",
+  "single-page-pdf",
+  "cfr-mermaid-size"
 ]

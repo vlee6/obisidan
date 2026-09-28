@@ -1,4 +1,4 @@
-**Tokenization** is the process of breaking down input into smaller chunks (and then often assigning each chunk an ID). This happens **outside** the model.
+**Tokenization** is the process of breaking down input into smaller chunks (and then often assigning each of theses chunks an ID). This happens **outside** the model.
 
 **Embedding** is the process of assigning an ID to a vector. This happens **inside** the model.
 

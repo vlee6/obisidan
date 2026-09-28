@@ -4,48 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "d68789d6398fe728",
+        "id": "4dfe00940196be68",
         "type": "tabs",
         "children": [
           {
-            "id": "e835d78c0701c327",
+            "id": "2c00db032d8a5127",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Arithmos/Dev/Final Update.md",
+                "file": "Archive/School/Freshman Spring/CS1200/Randomized Algorithms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Final Update"
+              "title": "Randomized Algorithms"
             }
           },
           {
-            "id": "bff7e21f5c2a961d",
+            "id": "39941fbbefe039ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/Job Descriptions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Job Descriptions"
+            }
+          },
+          {
+            "id": "cfd331280620f2ef",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Archive/Excalidraw/Drawing 2026-09-09 23.46.28.excalidraw.md"
+                "file": "Archive/Excalidraw/Drawing 2026-09-28 17.57.40.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2026-09-09 23.46.28.excalidraw"
-            }
-          },
-          {
-            "id": "03128598ac562ddc",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Archive/Excalidraw/Drawing 2026-09-10 18.55.18.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-09-10 18.55.18.excalidraw"
+              "title": "Drawing 2026-09-28 17.57.40.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -221,7 +224,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Work/Arithmos/Dev/Final Update.md",
+                "file": "Archive/Excalidraw/Drawing 2026-09-28 17.57.40.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -244,7 +247,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.3242414031068081,
+                  "scale": 0.0078125,
                   "close": true
                 }
               },
@@ -272,54 +275,55 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e835d78c0701c327",
+  "active": "cfd331280620f2ef",
   "lastOpenFiles": [
-    "Archive/Excalidraw/Drawing 2026-09-09 23.46.28.excalidraw.md",
-    "Archive/Excalidraw/Drawing 2026-09-10 18.55.18.excalidraw.md",
-    "Work/Arithmos/Dev/Final Update.md",
-    "Archive/Excalidraw/Drawing 2026-07-14 08.32.36.excalidraw.md",
-    "Archive/Excalidraw/Drawing 2026-09-09 22.11.45.excalidraw.md",
-    "Archive/Excalidraw/Drawing 2026-09-09 22.47.30.excalidraw.md",
-    "Work/Arithmos/Forecasting/Covariate Forecasting.md",
-    "Archive/Excalidraw/Drawing 2026-05-25 16.52.30.excalidraw 1.md",
-    "Work/Arithmos/Tokenization/Vector Quantization (TOTEM).md",
-    "School/Sophmore Fall/GENED 1033/Reducing intergroup bias through intergroup contact, Twenty years of progress and future directions.md",
-    "Work/Arithmos/Dev/Streamlining Dataset.md",
-    "Work/Arithmos/Dev/Hosting a SSH server with WSL and NixOS, vaguely.md",
-    "Work/Arithmos/Dev/Weekly Update 2.md",
-    "Work/Arithmos/Dev/Weekly Update.md",
-    "Archive/Excalidraw/Drawing 2026-09-09 21.13.37.excalidraw.md",
-    "Archive/Excalidraw/Drawing 2026-05-25 16.52.30.excalidraw 2.md",
-    "Archive/Excalidraw/Drawing 2026-06-30 09.20.41.excalidraw.md",
-    "Archive/Excalidraw/Drawing 2026-05-25 16.52.30.excalidraw.md",
+    "Work/Job Descriptions.md",
+    "Archive/Excalidraw/Drawing 2026-09-28 17.57.40.excalidraw.md",
+    "Work/Northeast Microelectronics.md",
+    "Work/Arithmos/Final Update.md",
+    "Archive/School/Freshman Spring/CS1200/Randomized Algorithms.md",
+    "Work/Summer 2026 Internships.md",
+    "Untitled.canvas",
     "Work/Arithmos/Project Notes.md",
+    "School/Sophmore Fall/PS 12B/Electric Flux.md",
+    "School/Sophmore Fall/PS 12B/Electric Field.md",
+    "School/Sophmore Fall/PS 12B/Electric Field of a Point Charge.md",
+    "School/Sophmore Fall/STAT 110/Lecture/Lecture 6 (9-22-26).md",
+    "School/Sophmore Fall/STAT 110/Lecture/Lecture 4 (9-15-26).md",
+    "Archive/Excalidraw/Drawing 2026-09-10 18.55.18.excalidraw.md",
+    "Archive/Excalidraw/Drawing 2026-09-09 23.46.28.excalidraw.md",
+    "Archive/Excalidraw/Drawing 2026-09-09 21.13.37.excalidraw.md",
+    "Archive/Excalidraw/Drawing 2026-09-09 22.47.30.excalidraw.md",
+    "Archive/Excalidraw/Drawing 2026-09-09 22.11.45.excalidraw.md",
+    "Work/Arithmos/Dev/Streamlining Dataset.md",
+    "Work/Arithmos/Dev/Weekly Update.md",
+    "Work/Arithmos/Dev/Weekly Update 2.md",
+    "School/Sophmore Fall/CS 1410/Assets/Pasted image 20260908152315.png",
+    "School/Sophmore Fall/CS 1410/Assets/Pasted image 20260924120415.png",
+    "School/Sophmore Fall/CS 1410/Lab 1b.md",
+    "Pasted image 20260924120359.png",
+    "Pasted image 20260924112046.png",
+    "School/Sophmore Fall/STAT 110/Lecture/Lecture 5 (9-17-26).md",
+    "School/Sophmore Fall/STAT 110/Assets/Pasted image 20260923161355.png",
+    "School/Sophmore Fall/PS 12B/Electric field of a Ring.md",
+    "School/Sophmore Fall/PS 12B/Electric Field of a Dipole.md",
+    "Untitled.md",
+    "School/Sophmore Fall/PS 12B/Electric Force on a Dipole.md",
+    "School/Sophmore Fall/PS 12B",
+    "School/Sophmore Fall/STAT 110/Assets",
+    "School/Sophmore Fall/STAT 110/Assets/Pasted image 20260915143431.png",
+    "School/Sophmore Fall/STAT 110/Lecture",
+    "School/Sophmore Fall/STAT 110",
+    "b.canvas",
     "Work/Arithmos/Assets/Pasted image 20260908192710.png",
-    "Work/Arithmos/Tokenization/QuantizedAutoEncoder vs Binning.md",
-    "Work/Arithmos/Tokenization/Tokenization & Embedding.md",
-    "Work/Arithmos/Tokenization/Simple Binning (Chronos).md",
-    "Work/Arithmos/Tokenization/Wave Quantization (WQ4TS).md",
-    "Work/Arithmos/Forecasting/Transformer Architecture.md",
     "Work/Arithmos/Assets/Pasted image 20260909232548.png",
     "Work/Arithmos/Assets/Pasted image 20260909232546.png",
-    "Work/Arithmos/Tokenization/A way to include manufacturing data.md",
-    "Work/Arithmos/Tokenization/BPE Distribution, Dataset Fix.md",
     "Work/Arithmos/Assets/Pasted Image 20260909223659_953.png",
-    "Work/Arithmos/Assets/Pasted Image 20260909215059_125.png",
-    "Work/Arithmos/Assets/Pasted image 20260909213401.png",
-    "Work/Arithmos/Assets/Pasted image 20260909212848.png",
-    "Work/Arithmos/Assets/Pasted image 20260909212843.png",
-    "Work/Arithmos/Assets/Pasted image 20260909210056.png",
-    "Work/Arithmos/Assets/Pasted image 20260909210037.png",
     "School/Sophmore Fall/CS 1410/Assets",
-    "School/Sophmore Fall/Untitled",
-    "Untitled.canvas",
     "School/Sophmore Fall/CS 1410",
     "School/Sophmore Fall/CS 51",
     "School/Sophmore Fall/GENED 1033",
     "Personal/C++",
-    "Personal/FPGA",
-    "Work/Arithmos/Dev",
-    "Work/Arithmos/Forecasting",
-    "Work/Arithmos/Tokenization"
+    "Personal/FPGA"
   ]
 }
