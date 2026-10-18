@@ -1,0 +1,21 @@
+Given indicator variable $I(A)$:
+
+$$
+I(A)
+\begin{cases}
+0 \text{ if A does not occur} \\
+1 \text{ if A does occur}
+\end{cases}
+$$
+$$
+(I(A))^2=I(A)
+$$
+$$
+I(A \cap B) = I(A)I(B)
+$$
+$$
+I(A^c)=1-I(A)
+$$
+$$
+I(A \cup B) = I(A)+I(B)-I(A \cap B)
+$$

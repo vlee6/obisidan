@@ -4,51 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "4dfe00940196be68",
+        "id": "08fdb264e4656ffc",
         "type": "tabs",
         "children": [
           {
-            "id": "2c00db032d8a5127",
+            "id": "14ed7135f294d6dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archive/School/Freshman Spring/CS1200/Randomized Algorithms.md",
+                "file": "School/Sophmore Fall/CS 1410/CS1410 Lab 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Randomized Algorithms"
+              "title": "CS1410 Lab 3"
             }
           },
           {
-            "id": "39941fbbefe039ea",
+            "id": "8907b634cfe0c55a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Job Descriptions.md",
+                "file": "Work/Nvidia Ignite.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Job Descriptions"
-            }
-          },
-          {
-            "id": "cfd331280620f2ef",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Archive/Excalidraw/Drawing 2026-09-28 17.57.40.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-09-28 17.57.40.excalidraw"
+              "title": "Nvidia Ignite"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,7 +116,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Personal/AMD BC 250.md"
+                "file": "School/Sophmore Fall/STAT 110/Lecture/Lecture 7 (9-24-26).md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -155,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/AMD BC 250.md",
+                "file": "School/Sophmore Fall/STAT 110/Lecture/Lecture 7 (9-24-26).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -170,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Arithmos/Project Notes.md",
+                "file": "School/Sophmore Fall/STAT 110/Lecture/Lecture 7 (9-24-26).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +177,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Arithmos/Project Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -224,7 +211,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Archive/Excalidraw/Drawing 2026-09-28 17.57.40.excalidraw.md",
+                "file": "Work/Nvidia Ignite.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -275,55 +262,55 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cfd331280620f2ef",
+  "active": "8907b634cfe0c55a",
   "lastOpenFiles": [
     "Work/Job Descriptions.md",
-    "Archive/Excalidraw/Drawing 2026-09-28 17.57.40.excalidraw.md",
-    "Work/Northeast Microelectronics.md",
-    "Work/Arithmos/Final Update.md",
-    "Archive/School/Freshman Spring/CS1200/Randomized Algorithms.md",
-    "Work/Summer 2026 Internships.md",
+    "Work/Nvidia Ignite.md",
+    "Archive/Excalidraw/Drawing 2026-10-14 19.47.46.excalidraw.md",
+    "School/Sophmore Fall/CS 1410/CS1410 Lab 3.md",
+    "School/Sophmore Fall/STAT 110/Lecture/Lecture 12 (10-15-26).md",
+    "School/Sophmore Fall/STAT 110/Bernoulli Distribution.md",
+    "Archive/Excalidraw/Assets/Pasted Image 20261014212815_662.png",
+    "School/Sophmore Fall/CS 1410/CS1410 Lab 2.md",
+    "School/Sophmore Fall/STAT 110/Useful Probability Facts.md",
+    "School/Sophmore Fall/STAT 110/LOTP.md",
+    "School/Sophmore Fall/STAT 110/Poisson Distribution.md",
+    "School/Sophmore Fall/STAT 110/Useful Math Facts.md",
+    "School/Sophmore Fall/STAT 110/First Success Distribution.md",
+    "School/Sophmore Fall/STAT 110/Variance.md",
+    "School/Sophmore Fall/STAT 110/Negative Binomial Distribution.md",
+    "School/Sophmore Fall/STAT 110/Indicator Variables.md",
+    "School/Sophmore Fall/STAT 110/Independence.md",
+    "School/Sophmore Fall/STAT 110/Hypergeometric Distribution.md",
+    "School/Sophmore Fall/STAT 110/Geometric Distribution.md",
+    "School/Sophmore Fall/STAT 110/Expected Value.md",
+    "School/Sophmore Fall/STAT 110/De MontMort's Matching Problem.md",
+    "School/Sophmore Fall/STAT 110/Conditional Independence.md",
+    "School/Sophmore Fall/STAT 110/Binomial Distribution.md",
+    "School/Sophmore Fall/STAT 110/Bayes' Rule.md",
+    "School/Sophmore Fall/STAT 110/Untitled.md",
     "Untitled.canvas",
-    "Work/Arithmos/Project Notes.md",
-    "School/Sophmore Fall/PS 12B/Electric Flux.md",
-    "School/Sophmore Fall/PS 12B/Electric Field.md",
-    "School/Sophmore Fall/PS 12B/Electric Field of a Point Charge.md",
-    "School/Sophmore Fall/STAT 110/Lecture/Lecture 6 (9-22-26).md",
-    "School/Sophmore Fall/STAT 110/Lecture/Lecture 4 (9-15-26).md",
-    "Archive/Excalidraw/Drawing 2026-09-10 18.55.18.excalidraw.md",
-    "Archive/Excalidraw/Drawing 2026-09-09 23.46.28.excalidraw.md",
-    "Archive/Excalidraw/Drawing 2026-09-09 21.13.37.excalidraw.md",
-    "Archive/Excalidraw/Drawing 2026-09-09 22.47.30.excalidraw.md",
-    "Archive/Excalidraw/Drawing 2026-09-09 22.11.45.excalidraw.md",
-    "Work/Arithmos/Dev/Streamlining Dataset.md",
-    "Work/Arithmos/Dev/Weekly Update.md",
-    "Work/Arithmos/Dev/Weekly Update 2.md",
-    "School/Sophmore Fall/CS 1410/Assets/Pasted image 20260908152315.png",
-    "School/Sophmore Fall/CS 1410/Assets/Pasted image 20260924120415.png",
-    "School/Sophmore Fall/CS 1410/Lab 1b.md",
-    "Pasted image 20260924120359.png",
-    "Pasted image 20260924112046.png",
     "School/Sophmore Fall/STAT 110/Lecture/Lecture 5 (9-17-26).md",
-    "School/Sophmore Fall/STAT 110/Assets/Pasted image 20260923161355.png",
-    "School/Sophmore Fall/PS 12B/Electric field of a Ring.md",
-    "School/Sophmore Fall/PS 12B/Electric Field of a Dipole.md",
-    "Untitled.md",
-    "School/Sophmore Fall/PS 12B/Electric Force on a Dipole.md",
+    "School/Sophmore Fall/STAT 110/Lecture/Lecture 10 (10-06-26).md",
+    "Archive/Excalidraw/Assets/Pasted Image 20261011125034_323.png",
+    "Archive/Excalidraw/Assets/Pasted Image 20261011124931_899.png",
+    "Archive/Excalidraw/Assets/Pasted Image 20261011124632_778.png",
+    "Archive/Excalidraw/Assets/Pasted Image 20261011124728_212.png",
+    "Archive/Excalidraw/Assets/Pasted Image 20261011124706_337.png",
+    "Archive/Excalidraw/Assets/Pasted Image 20261011124529_809.png",
+    "Archive/Excalidraw/Assets/Pasted Image 20261011124341_460.png",
+    "Archive/Excalidraw/Assets/Pasted Image 20261011124312_377.png",
+    "Archive/Excalidraw/Assets/Pasted Image 20261011124240_431.png",
+    "Archive/Excalidraw/Assets",
+    "School/Sophmore Fall/STAT 110/Lecture/Untitled",
     "School/Sophmore Fall/PS 12B",
     "School/Sophmore Fall/STAT 110/Assets",
-    "School/Sophmore Fall/STAT 110/Assets/Pasted image 20260915143431.png",
     "School/Sophmore Fall/STAT 110/Lecture",
     "School/Sophmore Fall/STAT 110",
     "b.canvas",
-    "Work/Arithmos/Assets/Pasted image 20260908192710.png",
-    "Work/Arithmos/Assets/Pasted image 20260909232548.png",
-    "Work/Arithmos/Assets/Pasted image 20260909232546.png",
-    "Work/Arithmos/Assets/Pasted Image 20260909223659_953.png",
     "School/Sophmore Fall/CS 1410/Assets",
     "School/Sophmore Fall/CS 1410",
     "School/Sophmore Fall/CS 51",
-    "School/Sophmore Fall/GENED 1033",
-    "Personal/C++",
-    "Personal/FPGA"
+    "School/Sophmore Fall/GENED 1033"
   ]
 }

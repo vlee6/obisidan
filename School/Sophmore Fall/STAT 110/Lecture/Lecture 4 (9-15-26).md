@@ -5,7 +5,7 @@
 
 ### Independence:
 Given events $A,B,C$.
-$A$ and $B$ are equivalent if $P(A \cap B) = P(A)P(B)$
+$A$ and $B$ are independent if $P(A \cap B) = P(A)P(B)$
 
 For three events:
 $P(A \cap B)=P(A)P(B)$
