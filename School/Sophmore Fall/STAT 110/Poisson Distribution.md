@@ -26,3 +26,10 @@ count how many $A_j$ occur. Then $X$ is approximately distributed as $\text{Pois
 ### Adding Poissons
 Given $X \sim \text{Pois}(\lambda)$ and $Y \sim \text{Pois}(\mu)$
 $$X+Y \sim \text{Pois}(\lambda + \mu)$$
+
+### Chicken-egg story
+$N\sim\operatorname{Pois}(\lambda)$ eggs, each hatching independently with probability $p$. Given $N=n$, $X\sim\operatorname{Bin}(n,p)$. Unconditionally,
+$$
+X\sim\operatorname{Pois}(\lambda p),\qquad Y\sim\operatorname{Pois}(\lambda q),
+$$
+and $X$ and $Y$ are independent.

@@ -8,21 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "14ed7135f294d6dc",
+            "id": "5f88e425c8a5d44f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Sophmore Fall/CS 1410/CS1410 Lab 3.md",
+                "file": "Work/IBM Interview Prep.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CS1410 Lab 3"
+              "title": "IBM Interview Prep"
             }
           },
           {
-            "id": "8907b634cfe0c55a",
+            "id": "d55a67224e70151b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,9 +34,22 @@
               "icon": "lucide-file",
               "title": "Nvidia Ignite"
             }
+          },
+          {
+            "id": "40cc3c84b2ad2bc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/Arithmos/Final Update.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Final Update"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,7 +224,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Work/Nvidia Ignite.md",
+                "file": "Work/IBM Interview Prep.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -234,7 +247,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.0078125,
+                  "scale": 0.3453665747902673,
                   "close": true
                 }
               },
@@ -262,36 +275,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8907b634cfe0c55a",
+  "active": "5f88e425c8a5d44f",
   "lastOpenFiles": [
-    "Work/Job Descriptions.md",
+    "Work/Arithmos/Final Update.md",
     "Work/Nvidia Ignite.md",
-    "Archive/Excalidraw/Drawing 2026-10-14 19.47.46.excalidraw.md",
-    "School/Sophmore Fall/CS 1410/CS1410 Lab 3.md",
+    "Work/IBM Interview Prep.md",
+    "Work/Summer 2026 Internships.md",
+    "Work/Untitled.md",
+    "School/Sophmore Fall/GENED 1033/Journal 4.md",
+    "School/Sophmore Fall/STAT 110/Lecture/Lecture 13 (10-20-26).md",
+    "School/Sophmore Fall/STAT 110/Continuous Distributions.md",
     "School/Sophmore Fall/STAT 110/Lecture/Lecture 12 (10-15-26).md",
+    "School/Sophmore Fall/STAT 110/Lecture/Lecture 14 (10-22-26).md",
+    "School/Sophmore Fall/STAT 110/Poisson Distribution.md",
+    "Work/Job Descriptions.md",
+    "School/Sophmore Fall/STAT 110/Useful Math Facts.md",
+    "School/Sophmore Fall/STAT 110/Expected Value.md",
+    "School/Sophmore Fall/STAT 110/Useful Probability Facts.md",
+    "School/Sophmore Fall/STAT 110/Hypergeometric Distribution.md",
+    "Work/Arithmos/Tokenization/BPE Distribution, Dataset Fix.md",
+    "School/Sophmore Fall/CS 1410/CS1410 Lab 3.md",
+    "Archive/Excalidraw/Drawing 2026-10-14 19.47.46.excalidraw.md",
     "School/Sophmore Fall/STAT 110/Bernoulli Distribution.md",
     "Archive/Excalidraw/Assets/Pasted Image 20261014212815_662.png",
     "School/Sophmore Fall/CS 1410/CS1410 Lab 2.md",
-    "School/Sophmore Fall/STAT 110/Useful Probability Facts.md",
     "School/Sophmore Fall/STAT 110/LOTP.md",
-    "School/Sophmore Fall/STAT 110/Poisson Distribution.md",
-    "School/Sophmore Fall/STAT 110/Useful Math Facts.md",
     "School/Sophmore Fall/STAT 110/First Success Distribution.md",
     "School/Sophmore Fall/STAT 110/Variance.md",
     "School/Sophmore Fall/STAT 110/Negative Binomial Distribution.md",
     "School/Sophmore Fall/STAT 110/Indicator Variables.md",
-    "School/Sophmore Fall/STAT 110/Independence.md",
-    "School/Sophmore Fall/STAT 110/Hypergeometric Distribution.md",
-    "School/Sophmore Fall/STAT 110/Geometric Distribution.md",
-    "School/Sophmore Fall/STAT 110/Expected Value.md",
-    "School/Sophmore Fall/STAT 110/De MontMort's Matching Problem.md",
-    "School/Sophmore Fall/STAT 110/Conditional Independence.md",
-    "School/Sophmore Fall/STAT 110/Binomial Distribution.md",
-    "School/Sophmore Fall/STAT 110/Bayes' Rule.md",
-    "School/Sophmore Fall/STAT 110/Untitled.md",
     "Untitled.canvas",
-    "School/Sophmore Fall/STAT 110/Lecture/Lecture 5 (9-17-26).md",
-    "School/Sophmore Fall/STAT 110/Lecture/Lecture 10 (10-06-26).md",
     "Archive/Excalidraw/Assets/Pasted Image 20261011125034_323.png",
     "Archive/Excalidraw/Assets/Pasted Image 20261011124931_899.png",
     "Archive/Excalidraw/Assets/Pasted Image 20261011124632_778.png",
